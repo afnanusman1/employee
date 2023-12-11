@@ -1,0 +1,10 @@
+Id,Name,Designation,Dept_No,DOB,Sex,Salary,Mobile,Email,Username,Password
+1,"David John","HR Manager",1,1990-01-08,Male,75000.00,0505214734,david@gmail.com,admin,david@123
+2,"Peter Hogan","Sales Manager",3,1991-08-10,Male,50000.00,0524324734,peter@gmail.com,peter,peter@123
+3,"Tony Thompson","Marketing Manager",2,1999-10-12,Male,25000.00,1234567890,tony@gmail.com,tony,tony@123
+4,"Steven Rock","Operation Manager",4,1990-03-01,Male,25000.00,3216549870,steven@gmail.com,steven,steven@123
+5,"Charlie John","Production Engineer",5,1992-03-07,Male,25000.00,9876054321,charlie@gmail.com,charlie,charlie@123
+6,"Alex Joshy","Quality Analyst",6,1991-02-05,Male,25000.00,5647891230,alex@gmail.com,alex,alex@123
+7,"Emma Jackson","Software Engineer",1,1993-03-01,Female,25000.00,4561237890,emma@gmail.com,emma,emma@123
+8,"Sarah Joseph","Sales Executive",3,1992-07-04,Female,25000.00,8527041963,sarah@gmail.com,sarah,sarah@123
+9,"Gwen Jacob","Sales Director",3,1990-11-03,Female,25000.00,9638520741,gwen@gmail.com,gwen,gwen@123
